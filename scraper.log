@@ -1,0 +1,3 @@
+2020-06-24 15:50:24 [scrapy.utils.log] INFO: Scrapy 2.2.0 started (bot: scrapybot)
+2020-06-24 15:50:24 [scrapy.utils.log] INFO: Versions: lxml 4.5.1.0, libxml2 2.9.10, cssselect 1.1.0, parsel 1.6.0, w3lib 1.22.0, Twisted 20.3.0, Python 3.5.2 (default, Apr 16 2020, 17:47:17) - [GCC 5.4.0 20160609], pyOpenSSL 19.1.0 (OpenSSL 1.1.1g  21 Apr 2020), cryptography 2.9.2, Platform Linux-4.4.0-53-generic-x86_64-with-LinuxMint-18.1-serena
+2020-06-24 15:50:24 [scrapy.utils.log] DEBUG: Using reactor: twisted.internet.epollreactor.EPollReactor
